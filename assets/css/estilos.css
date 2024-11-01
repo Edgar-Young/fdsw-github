@@ -36,3 +36,6 @@ body {
     width: 100px;
   }
 }
+footer p {
+  font-size: large;
+}
